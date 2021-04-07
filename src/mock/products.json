@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "category_id": 1,
+    "image": "/img/product.png",
+    "price": 20,
+    "stock": 30,
+    "amount": 40,
+    "composition": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "category_id": 1,
+    "image": "https://gurmans.dp.ua/giuseppe/7980/sushi-set-kaliforniya.jpg",
+    "price": 30,
+    "stock": 50,
+    "amount": 10,
+    "composition": "123Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci, aliquam dolore enim provident quibusdam! Amet dolor dolorem illum iste magnam molestiae neque praesentium quaerat, quis quos ullam vero voluptate."
+  }
+]
